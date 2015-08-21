@@ -1,0 +1,34 @@
+#featured_project_content{
+	width: 700px;
+	height: auto;
+	float: left;
+	padding-top: 30px;
+	padding-right: 0;
+	padding-bottom: 0;
+	padding-left: 10px;
+	}	
+#main_featured_content{
+	float: left;
+	width: 700px;
+}
+#main_feature {
+	float: left;
+	width: 220px;
+	height: auto;
+	background:#F00;
+}
+#main_feature1 {
+	float: left;
+	width: 220px;
+	height: auto;
+	margin-left: 11px;
+	background: #0F0;
+	color: #F00;
+}
+#main_feature2 {
+	float: left;
+	width: 220px;
+	height: auto;
+	margin-left: 11px;
+	background:#00F;
+}

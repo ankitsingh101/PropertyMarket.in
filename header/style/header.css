@@ -1,0 +1,34 @@
+#wapper {
+	float: left;
+	height: 250px;
+	width: 976px;
+	background-image:url(../image/header-bg.png);
+}
+#sideimg {
+	float: left;
+	height: 227px;
+	width: 250px;
+	padding-top: 25px;
+	padding-left: 15px;
+}
+#rotatehead {
+	float: left;
+	height: 230px;
+	width: 700px;
+	padding: 0px;
+}
+#rotatein {
+	float: left;
+	width: 600px;
+}
+
+.prev {
+	float: left;
+	padding-top: 59px;
+	padding-right: 10px;
+}
+.next {
+	float: left;
+	padding-top: 50px;
+	padding-left: 10px;
+}

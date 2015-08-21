@@ -1,0 +1,41 @@
+#main_admin {
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#admin_header {
+	float: left;
+	height: 200px;
+	width: 1000px;
+	border: 1px solid #CCC;
+}
+#admin_pages {
+	float: left;
+	height: 500px;
+	width: 980px;
+	padding: 10px;
+	border: 1px solid #CCC;
+}
+.admin_button {
+	color: #333;
+	background-color: #F90;
+	float: left;
+	height: 50px;
+	width: 200px;
+	font-size: 18px;
+	text-decoration: none;
+	margin-right: 20px;
+	margin-bottom: 20px;
+}
+#main_admin #admin_pages a {
+	color: #333;
+	text-decoration: none;
+}
+.td_txt {
+	color: #FFF;
+	width: 100%;
+	text-align: center;
+}
+.edit_a {
+	text-decoration: none;
+}

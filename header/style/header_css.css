@@ -1,0 +1,46 @@
+#wapper {
+	float: left;
+	height: 242px;
+	width: 979px;
+	background-image: url(../image/header-bg.png);
+}
+#sideimg {
+	float: left;
+	height: 225px;
+	width: 230px;
+	padding-top: 19px;
+	padding-left: 10px;
+}
+#rotatehead {
+	float: left;
+	height: 242px;
+	width: 739px;
+	padding: 0px;
+}
+#rotatein {
+	float: left;
+	width: 620px;
+	height: 242px;
+	margin-left: 15px;
+}
+
+.prev {
+	float: left;
+	padding-top: 50px;
+	padding-left: -8px;
+	width: 38px;
+}
+.next {
+	float: left;
+	padding-top: 50px;
+	padding-left: 15px;
+}
+.img_bg{
+	width:289px;
+	height:234px;
+	margin:0;
+url(file:///C|/Users/ipk/Desktop/header/image/ankitimages/imagesbackground.png)
+}
+img{
+	border:none;
+}

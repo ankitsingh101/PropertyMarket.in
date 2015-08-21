@@ -1,0 +1,49 @@
+.clearfix3 {clear:both;}
+.floatl3 {float:left;}
+.floatr3 {float:right;}
+.inline3{display:inline;}
+.fontbold3{font-weight:bold;}
+.fontwhite3 {color:#ffffff !important;}
+.fontblack3 {color:#333333 !important;}
+.fontgreen3 {color:#1ABE07 !important;}
+.fontblue3 {color:#0198D1 !important;}
+.fontgrey3 {color:#9d9d9d !important;}
+.fontred3 {color:#A30004 !important;}
+
+/* Slider Style */
+
+.slider_outer3{margin: 10px; border:1px solid #e6e6e6; padding:5px;}
+.slider_gutter3 {float: left;width: 100%;display: block;position: relative; }
+.slider_gutter_item3{position: relative;	float: left; left: 100%;}
+#slider_minmax_gutter_l3, .slider_gutter_l3{width: 10px;margin-left:-100%; height:20px;background:url(../images/slider_l.gif) no-repeat; }
+#slider_minmax_gutter_m3{width: 360px;margin-left:-370px;	height:20px; background:url(../images/slider_rptr.gif) repeat-x;}
+#slider_minmax_gutter_r3,.slider_gutter_r3{width: 10px;margin-left:-15px;height:20px; 	background:url(../images/slider_r.gif) no-repeat; border:1px }
+#minmax_slider3{ width:380px; margin:0px 10px;}
+
+.slider_gutter3{width:150px; margin:10px 0px 0px 0px; }
+.slider_gutter_m3{width:140px;margin-left:-150px;	height:20px; background:url(../images/slider_rptr.gif) repeat-x;}
+
+/*.slider_gutter_bkg{ position: absolute; background:url(../images/bkg_slider.gif) repeat-x; height:8px; margin:6px 0px 0px -10px; width:374px; clip:rect(0, 20px, 0, 20px)}
+*/
+.knob3 {	position: absolute;	height: 20px;width: 20px;background: url(../images/slider_knob.gif) no-repeat;cursor: pointer;}
+
+/* For Clip */
+
+#slider_bkg_img3{position: absolute; height:8px; margin:6px 0px 0px -10px; width:374px;}
+#slider_bkg_img_13{position: absolute; height:8px; margin:6px 0px 0px 0px; width:200px;}
+
+
+
+/* for Slider C */
+.slide_container3 .slider3 {float:left; display: block;position: relative; }
+.slide_container3 #slider_C3{width:270px; margin:0px 0px 0px 10px; border:0px solid red; }
+.slide_container3  .slider_gutter_C3{width:250px;margin-left:-260px;	height:20px; background:url(../images/slider_rptr.gif) repeat-x;}
+.slide_container3  #slider_bkg_img_C3{position: absolute; height:8px; margin:6px 0px 0px 0px; width:430px;}
+.slide_container3  .slider_gutter_r3{width: 10px;margin-left:-10px;height:20px; 	background:url(../images/slider_r.gif) no-repeat; border:1px }
+
+
+
+
+
+
+
